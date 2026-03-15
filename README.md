@@ -1,17 +1,38 @@
-# Exercise-04c-Enemies
+# 2D Platformer Project
 
-## Implementation
+# 
 
-## References
+# Implementation
 
-Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
-https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
-https://github.com/SebLague/2DPlatformer-Tutorial
+# -Created sprite for Big Jump Enemy \& Coin
 
-Pixel Platformer tiles provided by Kenney.nl
-https://kenney.nl/assets/pixel-platformer
+# -Changed background to allow biome feel
 
-## Future Development
+# -Added some custom and non-copyright music
 
-## Created by
-Nathan Mishler
+# 
+
+# \## References
+
+# -Class Videos
+
+
+
+
+
+# \## Future Development
+
+# Add more levels with different layouts
+
+# Add a player health system
+
+# Add a start menu and restart option
+
+# Add more sound effects and visual feedback
+
+# 
+
+\## Created by
+Kameron Grays
+===
+
